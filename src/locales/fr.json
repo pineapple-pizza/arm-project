@@ -1,0 +1,8 @@
+{
+    "message": "texte en français : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta totam dolore reiciendis vel non adipisci culpa eius facere molestiae facilis deleniti excepturi, est, architecto nesciunt tenetur, quidem quae minus voluptate. ",
+    "news": {
+        "name": "titre en français",
+        "description": "texte en français",
+        "source": "source en français"
+    }
+  }
